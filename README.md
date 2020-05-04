@@ -1,6 +1,6 @@
-#MangaDB
+# MangaDB
 
-###simple manga search with [Jikan Moe API](https://jikan.moe/)
+### simple manga search with [Jikan Moe API](https://jikan.moe/)
 
 dont forget to
 ```
